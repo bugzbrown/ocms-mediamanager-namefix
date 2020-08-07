@@ -1,4 +1,4 @@
-<?php namespace Gregorybrown\MediaManagerFix;
+<?php namespace GregoryBrown\MediaManagerFix;
 
 use Backend;
 use System\Classes\PluginBase;
