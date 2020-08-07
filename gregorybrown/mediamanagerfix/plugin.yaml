@@ -1,0 +1,6 @@
+plugin:
+    name: 'gregorybrown.mediamanagerfix::lang.plugin.name'
+    description: 'gregorybrown.mediamanagerfix::lang.plugin.description'
+    author: Gregorybrown
+    icon: oc-icon-align-justify
+    homepage: 'https://gregorybrown.com.br/'
